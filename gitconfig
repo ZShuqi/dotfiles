@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = shuqizheng6@gmail.com
+	name = Shuqi Zheng
